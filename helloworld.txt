@@ -1,0 +1,1 @@
+My first adding txt file in git repo
