@@ -1,1 +1,1 @@
-My first adding txt file in git repo
+My first adding txt file in git repo in master branch.
